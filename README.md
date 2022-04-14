@@ -2,7 +2,7 @@ I joined Heroku and I deployed my application on Heroku.
 
 You can access my application from the link https://mahir-bastas.herokuapp.com/.
 
-I built my application using Node JS. I have used javascript, html, css, bootstrap and similar programming languages, libraries and technologies.
+I built my application using React JS. I have used javascript, html, css, bootstrap and similar programming languages, libraries and technologies.
 
   When you want to use the Event Scheduler, you can select your event type by clicking on "Use Wildcard" or "Use Hard Input" button.
   
