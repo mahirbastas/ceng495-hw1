@@ -1,3 +1,9 @@
+I joined Heroku and I deployed my application on Heroku.
+
+You can access my application from the link https://mahir-bastas.herokuapp.com/.
+
+I built my application using Node JS. I have used javascript, html, css, bootstrap and similar programming languages, libraries and technologies.
+
 ## Versions
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -19,4 +25,3 @@ Run `npm start` to start the built-in web server at [http://localhost:3000](http
 ## Build
 
 Run `npm run build` to build the project.
-
