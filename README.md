@@ -4,6 +4,10 @@ You can access my application from the link https://mahir-bastas.herokuapp.com/.
 
 I built my application using Node JS. I have used javascript, html, css, bootstrap and similar programming languages, libraries and technologies.
 
+  When you want to use the Event Scheduler, you can select your event type by clicking on "Use Wildcard" or "Use Hard Input" button.
+  
+  After selecting event type, you can pick available time slots and type your activity or select the events offered by Bored.
+
 ## Versions
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
